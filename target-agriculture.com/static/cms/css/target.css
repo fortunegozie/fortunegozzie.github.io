@@ -1,0 +1,33 @@
+ .fullwidthbanner-container{
+    width:100% !important;
+    position:relative;
+    padding:0;
+    max-height:500px !important;
+    overflow:hidden;
+}
+
+.lh30{
+    line-height: 30px!important;
+}
+
+.product-search{
+    margin-left: 20px;
+    margin-top:10px;
+}
+
+.product-search-button{
+	margin-top:10px;
+}
+
+.thumbnail-style a{
+	white-space:nowrap;
+}
+
+
+.no-lm{
+	margin-left:0!important;
+}
+
+.underline{
+    text-decoration: underline;
+}
